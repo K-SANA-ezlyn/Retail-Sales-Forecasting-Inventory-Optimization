@@ -290,3 +290,15 @@ This project demonstrates:
 
 Khadeejath Sana
 
+Computer Science Student | Aspiring Data Analyst
+
+Building practical projects in:
+- Data Analytics
+- Machine Learning
+- Forecasting Systems
+- Business Intelligence
+
+GitHub: https://github.com/K-SANA-ezlyn
+
+LinkedIn: https://www.linkedin.com/in/khadeejath-sana-631b3632b/
+
